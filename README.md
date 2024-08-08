@@ -23,6 +23,4 @@ This project is licensed.
 
 ---
 
-Feel free to customize the repository link and any other details as needed!
-
 <img width="435" alt="UI" src="https://github.com/user-attachments/assets/ab419ee3-1e2e-4dc0-bac0-8115297b9918">
